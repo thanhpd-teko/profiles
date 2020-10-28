@@ -1,0 +1,17 @@
+{
+  "code": "string",
+  "result": {
+    "profiles": {
+      "profileId": "string",
+      "userId": "hello",
+      "clientCode": "string",
+      "name": "string 123",
+      "email": "user@example.com",
+      "telephone": "string",
+      "sex": "M",
+      "dob": "2020-04-22",
+      "userGroups": ["vinmart_employee", "test"]
+      
+    }
+  }
+}
